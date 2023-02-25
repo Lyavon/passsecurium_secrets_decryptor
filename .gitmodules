@@ -1,0 +1,4 @@
+[submodule "libkmem"]
+	path = libkmem
+	url = https://github.com/stelhs/libkmem
+	branch = master
